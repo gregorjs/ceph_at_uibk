@@ -1,6 +1,6 @@
 ### Kurze Demo
 
-<iframe src="http://localhost:4101"></iframe>
+Die Präsentation enthält hier eine kleine Live Demo.
 
 
 # Danke!

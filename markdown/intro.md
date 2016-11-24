@@ -101,7 +101,7 @@ Ceph bietet mehrere
 * CephFS
 
 
-<!-- .slide: data-background-image="images/stack.png" data-background-size="contain" -->
+![stack](images/stack.png)
 
 
 ## RBD
@@ -113,7 +113,7 @@ Ceph bietet mehrere
 #Ceph und Hyperconverged?
 
 
-<!-- .slide: data-background-image="images/hci-in-depth.png" data-background-size="contain" -->
+![hci-in-depth](images/hci-in-depth.png)
 
 
 Unterstützung für 
@@ -122,7 +122,7 @@ in
 #Openstack?
 
 
-<!-- .slide: data-background-image="images/openstack-ceph-galaxy.png" data-background-size="contain" -->
+![openstack-ceph-galaxy](images/openstack-ceph-galaxy.png)
 
 
 Unterstützung für 

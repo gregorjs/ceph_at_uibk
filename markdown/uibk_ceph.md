@@ -12,10 +12,10 @@ in
 * RHEV
 
 
-<!-- .slide: data-background-image="images/cinder.png" data-background-size="contain" -->
+![cinder](images/cinder.png)
 
 
-<!-- .slide: data-background-image="images/pools.png" data-background-size="contain" -->
+![pools](images/pools.png)
 
 
 ## RBD Backups
@@ -111,19 +111,19 @@ ceph-disk activate ${disk}
 * RBD ordered writeback cache, low latency <!-- .element class="fragment" -->
 
 
-<!-- .slide: data-background-image="images/ceph_on_flash.png" data-background-size="contain" -->
+![ceph_on_flash](images/ceph_on_flash.png)
 
 
 ### Ordered writeback cache
 
 
-<!-- .slide: data-background-image="images/wb0.png" data-background-size="contain" -->
+![ceph_on_flash](images/wb0.png)
 
 
-<!-- .slide: data-background-image="images/wb1.png" data-background-size="contain" -->
+![ceph_on_flash](images/wb1.png)
 
 
-<!-- .slide: data-background-image="images/wb2.png" data-background-size="contain" -->
+![ceph_on_flash](images/wb2.png)
 
 
 ## Ausblick Openstack:
